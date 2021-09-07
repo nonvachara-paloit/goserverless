@@ -1,0 +1,5 @@
+mode: count
+github.com/palo-blog/myproject/hello/main.go:19.53,25.16 3 1
+github.com/palo-blog/myproject/hello/main.go:28.2,40.18 3 1
+github.com/palo-blog/myproject/hello/main.go:25.16,27.3 1 0
+github.com/palo-blog/myproject/hello/main.go:43.13,45.2 1 0
